@@ -1,7 +1,7 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-const GOERLI_PRIVATE_KEY = "6ac5224ae5496a0c0830b751e93ef79fed2dcdfaacb1720f80b2070af33dcc46";
-const ALCHEMY_API_KEY = "QARk6wvaaHlcADJr55SrUhFmACjgP0lZ";
+const GOERLI_PRIVATE_KEY = "sdfsdfsfsf";
+const ALCHEMY_API_KEY = "sdfsfdfdsf";
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
@@ -14,7 +14,7 @@ module.exports = {
   },
   etherscan: {
     apiKey: {
-      goerli: 'DEHCB9QGHRA42MIX935Z9SQI9DRD3FYYDG'
+      goerli: 'sdfsdfsfdssdfdf'
     }
   }
 };
